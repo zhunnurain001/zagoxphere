@@ -556,6 +556,8 @@ p {
    display: flex;
    align-items: center;
    justify-content: center;
+      max-width:20.0rem;
+      
   }.shop-container{
    display: grid;
    grid-template-columns: repeat(2,1fr);
