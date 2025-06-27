@@ -359,8 +359,7 @@ margin-bottom: 1.8rem;
 .gallery-icons{
    display: flex;
    align-items: center;
-   justify-content: center;
-   gap: 2.8rem;
+   justify-content:space-around;
 }
 .galllery h1{
    text-align: center;
